@@ -1,5 +1,7 @@
 ## ImageLibrary
 
+Library at [Library.jpg](https://github.com/tetianasirenko/ImageProcessingLibrary/blob/main/Library.jpg) file.
+
 Class __ImageLibrary__ contains methods for images processing.
 __ImageLibrary__ use singleton pattern. 
 
